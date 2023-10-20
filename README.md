@@ -60,7 +60,9 @@ Create a superuser:
 
     python3 manage.py shell
     
+    ```python
     >>> exec(open('populate.py').read())
+    ```
 
 # 4. Run the Server
 
