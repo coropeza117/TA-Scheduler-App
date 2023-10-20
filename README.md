@@ -51,7 +51,7 @@ Benefits
     python3 manage.py migrate
 # 2. Create the Superuser
 
-# Create a superuser:
+Create a superuser:
 
     python3 manage.py createsuperuser
 # 3. Populate the Database (Optional)
